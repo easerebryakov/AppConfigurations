@@ -1,2 +1,9 @@
-Setting1 := abc
-Setting2 := 123
+setting1 := abc
+setting2 := 123
+setting1 := aaa
+settingBoolTrue := true
+settingBoolBadFormat := 1
+settingWithDefaultAndBadFormat := aaa
+settingRedefinitionValue := newValue
+settingInt := 123456
+settingIntNullable := 111
